@@ -1,1 +1,3 @@
 # pickemon
+
+Fantasy picker
